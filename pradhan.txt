@@ -1,2 +1,5 @@
-Hello world "This is my initial git project"
+# This program prints Hello, world!
+
+print('Hello, world!')
+
 
